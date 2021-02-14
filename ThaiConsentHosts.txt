@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202102111308
+# Version: 202102141405
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts/tree/lawa
@@ -1520,6 +1520,7 @@
 0.0.0.0 thisilike.net
 0.0.0.0 thmobi.com
 0.0.0.0 thquestionnaire.com
+0.0.0.0 thrillingo.com
 0.0.0.0 thsurveys.com
 0.0.0.0 thtrackingap.com
 0.0.0.0 thumbr.com
@@ -1788,9 +1789,10 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7c1e.nbryb.com
+0.0.0.0 07d0.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
 0.0.0.0 7lyr1.bemobtrk.com
@@ -7640,6 +7642,7 @@
 0.0.0.0 www.thmobi.com
 0.0.0.0 www.thommy.lawaweb.com
 0.0.0.0 www.thquestionnaire.com
+0.0.0.0 www.thrillingo.com
 0.0.0.0 www.thsurveys.com
 0.0.0.0 www.thtrackingap.com
 0.0.0.0 www.thumbr.com
@@ -7954,4 +7957,7 @@
 0.0.0.0 zz.zu.thisilike.net
 0.0.0.0 zz.zz.thumbr.com
 0.0.0.0 zzgc9.trackvoluum.com
+<<<<<<< HEAD
+=======
+>>>>>>> 0b4bdfd (💔 More MacroKiosk)
 # End of my hosts entry - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
